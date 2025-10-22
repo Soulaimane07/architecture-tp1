@@ -1,0 +1,2 @@
+org.yourcompany.yourproject.dao.DaoImpl
+org.yourcompany.yourproject.metier.MetierImpl
